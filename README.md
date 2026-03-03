@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://singlecolorimage.com/get/320021/1600x200" alt="wine red banner" width="100%" style="border-radius: 8px;"/>
   <h1>Hi, I'm Zalan Budai 👋</h1>
-  <h3>Backend Developer | Maximalist | University Student at BME, Budapest</h3>
+  <h3>Backend Developer | University Student at BME, Budapest</h3>
 
   <!-- GitHub Stats Card -->
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=budaizalan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="Zalan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=budaizalan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
 </div>
 
 ---
@@ -48,7 +48,6 @@ Additional tools and frameworks I am experienced with:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
