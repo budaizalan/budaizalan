@@ -61,8 +61,8 @@ Additional tools and frameworks I am experienced with:
 
 ### 👥 Organizations & Projects
 
-- 🚀 Proud member of [Spectra Promotions](https://github.com/SpectraPromotions)
-- 🛠️ Involved in [HTBO](https://github.com/budaizalan/HTBO_)
+- 🚀 Member of [Spectra Promotions](https://github.com/SpectraPromotions) and [KKESZ](https://github.com/KKESZ)
+- 🛠️ Involved in [HTBO](https://github.com/budaizalan/HTBO_) as graduation project in high school.
 - 🔍 Check out other fun projects in my [repos](https://github.com/budaizalan?tab=repositories)
 
 ---
