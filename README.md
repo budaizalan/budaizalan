@@ -3,9 +3,6 @@
   <h1>Hi, I'm Zalan Budai 👋</h1>
   <h3>Backend Developer | University Student at BME, Budapest</h3>
 
-  <!-- GitHub Stats Card -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=budaizalan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
 </div>
 
 ---
@@ -70,7 +67,6 @@ Additional tools and frameworks I am experienced with:
 ### 📫 Get in Touch
 
 - **Email:** zalann.budai@gmail.com
-- **Phone:** +36 30 916 0685
 
 ---
 
