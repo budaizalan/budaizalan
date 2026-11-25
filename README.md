@@ -11,14 +11,13 @@
 
 - 🎓 Studying at Budapest University of Technology and Economics (BME)
 - 💼 Software engineering background, specializing in backend development
-- 🧑‍💻 Maximalist with experienced entrant-level knowledge and a passion for high-complexity projects
 
 ---
 
 ### ⚡ Tech Stack
 
 #### 🏆 Core Competencies
-My primary focus and expertise:
+My primary expertise:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -49,7 +48,6 @@ Additional tools and frameworks I am experienced with:
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <br>
 <sub>💡 I prefer writing backend for websites and building complex client projects using Node.js.</sub>
@@ -60,7 +58,6 @@ Additional tools and frameworks I am experienced with:
 
 - 🚀 Member of [Spectra Promotions](https://github.com/SpectraPromotions) and [KKESZ](https://github.com/KKESZ)
 - 🛠️ Involved in [HTBO](https://github.com/budaizalan/HTBO_) as graduation project in high school.
-- 🔍 Check out other fun projects in my [repos](https://github.com/budaizalan?tab=repositories)
 
 ---
 
